@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.12">
+  <POU Name="POU_1" Id="{13deebe0-5757-48f5-9416-4b29fe9792b1}" SpecialFunc="None">
+    <Declaration><![CDATA[PROGRAM POU_1
+VAR
+END_VAR
+]]></Declaration>
+    <Implementation>
+      <ST><![CDATA[//Added Another POu]]></ST>
+    </Implementation>
+    <LineIds Name="POU_1">
+      <LineId Id="5" Count="0" />
+    </LineIds>
+  </POU>
+</TcPlcObject>
