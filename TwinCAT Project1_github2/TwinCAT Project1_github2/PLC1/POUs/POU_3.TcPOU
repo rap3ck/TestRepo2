@@ -8,7 +8,19 @@ END_VAR
     <Implementation>
       <ST><![CDATA[]]></ST>
     </Implementation>
+    <Method Name="METH" Id="{d96f3746-3f0c-4727-8dcf-3719e1d16356}">
+      <Declaration><![CDATA[METHOD METH : BOOL
+VAR_INPUT
+END_VAR
+]]></Declaration>
+      <Implementation>
+        <ST><![CDATA[]]></ST>
+      </Implementation>
+    </Method>
     <LineIds Name="POU_3">
+      <LineId Id="5" Count="0" />
+    </LineIds>
+    <LineIds Name="POU_3.METH">
       <LineId Id="5" Count="0" />
     </LineIds>
   </POU>
